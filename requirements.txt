@@ -1,0 +1,10 @@
+pandas==2.2.3
+xgboost==2.1.2
+scikit-learn==1.5.2
+requests==2.32.3
+matplotlib==3.9.2
+shap==0.50.0
+llvmlite==0.41.1
+numba==0.58.1
+xlrd==2.0.1
+numpy==1.26.4
